@@ -17,7 +17,7 @@ Create a database in Microsoft SQL Server using Microsoft SQL Server Management 
 
 ### Steps how to build and run the project
 
-Before building and running the project, add a connection string to your database. It must be assigned to a variable named "_connectionString" in a file named "Sturtup.cs". Connection string can be obtained by creating a new database connection with Visual Studio in "server explorer". After establishing the connection, select the database and select its properties. The connection string should be available there.
+Before building and running the project, add a connection string to your database. It must be assigned to a variable named "_connectionString" in a file named "Startup.cs". Connection string can be obtained by creating a new database connection with Visual Studio in "server explorer". After establishing the connection, select the database and select its properties. The connection string should be available there.
 The easiest way to build and run a project is to use the visual studio IDE by pressing the RUN button.
 This can also be achieved by using commands in project directory:
 
